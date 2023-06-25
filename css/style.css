@@ -90,3 +90,13 @@ body {
 .temp-min {
     color: #bdbdbd;
 }
+
+.logo {
+    color: #bdbdbd;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.dev {
+    color: rgba(172, 255, 47, 0.685);
+}
